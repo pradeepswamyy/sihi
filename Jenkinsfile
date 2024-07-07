@@ -17,7 +17,7 @@ pipeline {
         }
         stage('Test') {
             steps {
-                echo 'Testing againg...'
+                echo 'Testing sihi jenkins...'
                 // Add your test steps here
             }
         }
